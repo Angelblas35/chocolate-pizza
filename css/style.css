@@ -1,0 +1,43 @@
+body {
+    width: 901px;
+    margin: 0px auto;
+}
+/* Header */
+
+header {
+    margin-top: 10px;
+    height: 70px;
+    width: 901px;
+    border-bottom: dotted; 
+}
+
+header img {
+    float: left;
+}
+
+header h2 {
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+header h3 {
+    float: left;
+    margin-left: 18px;
+    margin-right: 470px;
+}
+
+header li {
+    float: left;
+}
+/* Main */
+
+main {
+    margin-top: 60px;
+}
+
+main h1 {
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+/* Footer */
